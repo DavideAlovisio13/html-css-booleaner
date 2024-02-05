@@ -17,3 +17,20 @@
 #logoimg{
     width: 200px;
 }
+.section1{
+    padding-top: 30px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+#subtitle{
+    font-size: 20px;
+    color: #888888;
+}
+#subtitle>span{
+    color: #24AAE5;
+}
+.timberners{
+    margin-top: 20px;
+}
