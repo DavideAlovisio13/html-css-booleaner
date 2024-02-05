@@ -45,9 +45,10 @@ h1{
     text-align: left;
 }
 thead{
-    background-color:#20A9E5;
+    background-color:#20A9E5;   
+}
+.ipsumcolor{
     color: white;
-    
 }
 .lorem{
     padding-top: 10px;
@@ -57,4 +58,27 @@ thead{
 .color{
     background-color: #B1E5F2;
 }
+footer {
+    padding: 20px;
+}
+aside{
+    padding: 20px;
+}
+.bottomimages>div{
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 15px;
+    height: 208px;
+    width: 312px;
+}
+.img1{
+    background-image: url(../img/img/monitor.jpg);
+    background-size: contain;
+}
+.img2{
+    background-image: url(../img/img/graph.jpg);
+    background-size: contain;
+}
+
+
 
