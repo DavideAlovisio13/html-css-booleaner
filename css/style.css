@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    width: 100vw;
+    padding: 2px;
+}
+.logo{
+    background-image:url(../img/img/pattern.png);
+    background-position: 0% 10%;
+    background-color: #4EA0FF;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+#logoimg{
+    width: 200px;
+}
