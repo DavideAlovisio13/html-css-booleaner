@@ -26,8 +26,8 @@
 /* main topic */
 main{
     padding: 20px;
-    margin-left: 90px;
-    margin-right: 90px;
+    width: 70%;
+    margin: auto;
 }
 
 /* title snd images */
@@ -79,15 +79,15 @@ thead{
 /* footer */
 footer {
     padding: 20px;
-    margin-left: 90px;
-    margin-right: 90px;
+    width: 70%;
+    margin: auto;
 }
 
 /* aside */
 aside{
     padding: 20px;
-    margin-left: 90px;
-    margin-right: 90px;
+    width: 70%;
+    margin: auto;
 }
 #asidetext{
     color: #888888;
