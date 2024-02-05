@@ -1,10 +1,9 @@
 *{
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 .container{
-    width: 100vw;
+    width: 100%;
     padding: 2px;
 }
 .logo{
@@ -17,15 +16,19 @@
 #logoimg{
     width: 200px;
 }
+main{
+    padding: 20px;
+}
 .section1{
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 h1{
     font-size: 50px;
     font-weight: bold;
 }
 #subtitle{
-    font-size: 20px;
+    font-size: 15px;
     color: #888888;
 }
 #subtitle>span{
@@ -34,3 +37,24 @@ h1{
 .timberners{
     margin-top: 20px;
 }
+.list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.table{
+    text-align: left;
+}
+thead{
+    background-color:#20A9E5;
+    color: white;
+    
+}
+.lorem{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+}
+.color{
+    background-color: #B1E5F2;
+}
+
