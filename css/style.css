@@ -2,10 +2,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* contenitore generale */
 .container{
     width: 100%;
     padding: 2px;
 }
+
+/* header */
 .logo{
     background-image:url(../img/img/pattern.png);
     background-position: 0% 10%;
@@ -13,12 +17,17 @@
     padding-top: 90px;
     padding-bottom: 20px;
 }
+
 #logoimg{
     width: 200px;
 }
+
+/* main topic */
 main{
     padding: 20px;
 }
+
+/* title snd images */
 .section1{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -37,6 +46,11 @@ h1{
 .timberners{
     margin-top: 20px;
 }
+#descriptionphoto{
+    font-size: 10px;
+}
+
+/* description and list */
 .list{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -58,11 +72,18 @@ thead{
 .color{
     background-color: #B1E5F2;
 }
+
+/* footer */
 footer {
     padding: 20px;
 }
+
+/* aside */
 aside{
     padding: 20px;
+}
+#asidetext{
+    color: #888888;
 }
 .bottomimages>div{
     padding-top: 10px;
